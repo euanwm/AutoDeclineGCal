@@ -2,7 +2,7 @@
 // SHIT MEETING DECLINER
 
 const USER_CAL = 'ADD YOUR EMAIL HERE'
-const DECLINE_LEN = 50;  // Anything less than 30 characters will be rejected
+const DECLINE_LEN = 50;  // Anything less than 50 characters will be rejected
 
 function FetchCal() {
   try {
